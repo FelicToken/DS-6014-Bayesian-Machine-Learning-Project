@@ -1,4 +1,5 @@
 # DS-6014-Bayesian-Machine-Learning-Project
+## LDA Class was written by Professor Donald Brown @ School of Data Science UVA
 
 The codes for the project is in the jupyter notebook in the code folder.
 
